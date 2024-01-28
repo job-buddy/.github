@@ -31,8 +31,6 @@
 </details>
 
 
-<br>
-
 
 <details>
   <summary> 서비스 흐름도 </summary>
@@ -40,7 +38,6 @@
 ![image](https://github.com/job-buddy/.github/assets/67156494/2007ad1b-8e5d-4e71-b025-dbded81357f6)
 </details>
 
-<br>
 
 <details>
 <summary>ERD </summary>
